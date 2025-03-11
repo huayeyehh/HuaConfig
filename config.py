@@ -2,4 +2,4 @@ INCLUDE = [
 ]
 EXCLUDE = [
 ]
-UPDATE = False
+UPDATE = True
